@@ -1,4 +1,4 @@
 vagrant-math
 ============
 
-vagrant testing
+http://kvz.io/blog/2013/01/16/vagrant-tip-keep-virtualbox-guest-additions-in-sync/
